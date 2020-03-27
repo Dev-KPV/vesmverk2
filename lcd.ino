@@ -11,7 +11,7 @@ lcd.begin(16, 2);
 // Print a message to the LCD.
 lcd.print("Karl Philip");
 lcd.setCursor(0, 1);
-lcd.print("19/03/2020");
+lcd.print("23/03/2020");
 delay(1000);
 }
 
